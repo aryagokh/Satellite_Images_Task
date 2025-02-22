@@ -1,0 +1,7 @@
+
+dataset/
+image_chips_native/
+labels/
+notebooks/runs/detect/
+notebooks/yolo11n.pt
+notebooks/yolo8m.pt
