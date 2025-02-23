@@ -10,3 +10,4 @@ The specific tasks and its notebooks are :
 
 <br><br>
 If any file fails to load, please refresh the page (try 4-5 times) or drop a mail at : arya.gokhale1@gmail.com
+You can also download the raw file and view it on your local.
