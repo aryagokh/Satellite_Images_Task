@@ -1,7 +1,8 @@
-
-dataset/
+dataset/labels
+dataset/testlabel_predictions
+dataset/images
 image_chips_native/
 labels/
 notebooks/runs/detect/train2/weights
-notebooks/yolo11n.pt
 notebooks/yolov8m.pt
+notebooks/yolo11n.pt
