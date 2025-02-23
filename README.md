@@ -9,4 +9,4 @@ The specific tasks and its notebooks are :
 4. Building and Evaluation of the model (eval using both implementation and supervision.metrics) - <a href='https://github.com/aryagokh/Satellite_Images_Task/blob/main/notebooks/yolov8_BuildnEval.ipynb'>Notebook 3</a>
 
 <br><br>
-If any file fails to load, please refresh the page or drop a mail at : arya.gokhale1@gmail.com
+If any file fails to load, please refresh the page (try 4-5 times) or drop a mail at : arya.gokhale1@gmail.com
