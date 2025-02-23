@@ -1,0 +1,9 @@
+opencv-python
+supervision
+ultralytics
+torch==2.4.1+cu121
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
